@@ -83,15 +83,22 @@ a:hover {
     margin-left: 1em;
     margin-bottom: 1em;
   }
-
-
 .lt-ie9 .col-big{
   background:red;
 }
-
 .lt-ie9 aside{
   width:25%;
 float: left;
 }
+.no-cssgradients aside{
+  background:#ddd;
+}
+
+.example {
+  -webkit-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+          transform: rotate(30deg);
+}
+
 
 }
