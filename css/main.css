@@ -83,4 +83,9 @@ a:hover {
     margin-left: 1em;
     margin-bottom: 1em;
   }
+
+
+.lt-ie9 .col-big{
+  background:red;
+}
 }
