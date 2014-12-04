@@ -88,4 +88,10 @@ a:hover {
 .lt-ie9 .col-big{
   background:red;
 }
+
+.lt-ie9 aside{
+  width:25%;
+float: left;
+}
+
 }
