@@ -68,6 +68,9 @@ a:hover {
     float: left;
   }
 
+
+
+
   aside {
     background-image: linear-gradient(to bottom, #fff, #ddd);
     padding: 1em 2%;
@@ -83,6 +86,7 @@ a:hover {
     margin-left: 1em;
     margin-bottom: 1em;
   }
+}
 .lt-ie9 .col-big{
   background:red;
 }
@@ -94,11 +98,11 @@ float: left;
   background:#ddd;
 }
 
-.example {
+img {
   -webkit-transform: rotate(30deg);
       -ms-transform: rotate(30deg);
           transform: rotate(30deg);
 }
 
 
-}
+
